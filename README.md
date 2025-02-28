@@ -21,7 +21,7 @@ cd python_bootcamp_aula1/
 
 [Instalação do UV](https://docs.astral.sh/uv/guides/install-python/)
 
-Após a instalação, execute os passos necessários no repositório para executar o script. (Se precisar de ajuda pode entrar em contato! 😁)
+3. Após a instalação, execute os passos necessários no repositório para executar o script. (Se precisar de ajuda pode entrar em contato! 😁)
 
 ## Funcionalidades
 
